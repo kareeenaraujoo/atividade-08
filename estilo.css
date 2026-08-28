@@ -44,14 +44,14 @@ button {
     padding: 12px;
     border: none;
     border-radius: 6px;
-    background: #2457a6;
+    background: #79ee96;
     color: white;
     font-size: 16px;
     cursor: pointer;
 }
 
 button:hover {
-    background: #183d78;
+    background: #046900;
 }
 
 button:disabled {
@@ -64,7 +64,7 @@ button:disabled {
 }
 
 .incorreta {
-    background: #b52a37;
+    background: #169b2c;
 }
 
 .oculto {
